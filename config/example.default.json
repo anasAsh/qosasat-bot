@@ -1,9 +1,8 @@
 {
-    "redisHost": "localhost",
-    "redisPort": "6379",
-    "redisDatabase" : "0",
+    "redisUrl": "localhost:6379",
     "appSecret": "",
     "pageAccessToken": "",
-    "validationToken": "JOSA-is-here",
-    "serverURL": "https://1469c55a.ngrok.io"
+    "validationToken": "",
+    "witBaseUrl": "",
+    "witAuth": "",
 }
