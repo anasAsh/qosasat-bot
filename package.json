@@ -1,8 +1,8 @@
 {
-  "name": "messenger-get-started",
+  "name": "qosasat-bot",
   "version": "1.0.0",
-  "description": "Get started example for Messenger Platform",
-  "main": "app.js",
+  "description": "",
+  "main": "src/app.js",
   "scripts": {
     "start": "node src/app.js",
     "lint": "jshint --exclude node_modules .",
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "https://github.com/fbsamples/messenger-platform-samples.git"
   },
-  "author": "Facebook",
+  "author": "Anas Al Hamdan",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.15.0",
